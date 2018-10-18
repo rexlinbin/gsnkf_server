@@ -1,1 +1,1 @@
-# fknsg_server
+# 仅供学习之用
