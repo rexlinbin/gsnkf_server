@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--架设 QQ508708408 --表配置 -->
+<table>
+
+<!--架设 QQ508708408 --表名 -->
+<name>t_user_world</name>
+
+<!--架设 QQ508708408 --主键 -->
+<primary_keys>
+<!--架设 QQ508708408 --主键id -->
+<key>pid</key>
+<key>server_id</key>
+</primary_keys>
+
+<!--架设 QQ508708408 --分表信息 -->
+<partition>
+
+<!--架设 QQ508708408 --分表键值 -->
+<key>pid</key>
+
+<!--架设 QQ508708408 --分表方法 mod, div, month, week, year, day -->
+<method>div</method>
+
+<!--架设 QQ508708408 --分表值 -->
+<value>1000000</value>
+</partition>
+</table>

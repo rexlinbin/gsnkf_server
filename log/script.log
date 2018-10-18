@@ -1,0 +1,61 @@
+[20170511 00:55:02 061724][INFO][logid:3852313600][server:127.0.0.1][lib/SimpleBtstore.php:232]btstore init file://HEROES cost:101(ms)
+[20170511 00:55:02 070808][INFO][logid:3852313600][server:127.0.0.1][lib/SimpleBtstore.php:232]btstore init file://PET cost:8(ms)
+[20170511 00:55:02 072753][FATAL][logid:3852313600][server:127.0.0.1][script/CrontabExecutor.php:186]file:/home/pirate/lcserver/conf/game696301.args not found
+[20170511 00:55:02 072812][FATAL][logid:3852313600][server:127.0.0.1][script/CrontabExecutor.php:244]game:game696301 has no db found
+[20170511 00:55:02 073036][FATAL][logid:3852313600][server:127.0.0.1][script/CrontabExecutor.php:186]file:/home/pirate/lcserver/conf/game.args not found
+[20170511 00:55:02 073083][FATAL][logid:3852313600][server:127.0.0.1][script/CrontabExecutor.php:244]game:game has no db found
+[20170511 00:55:02 079569][INFO][logid:6551068000][server:127.0.0.1][group:game696048][lib/SimpleBtstore.php:232]btstore init file://COMPETE cost:0(ms)
+[20170511 00:55:02 079997][INFO][logid:6551068000][server:127.0.0.1][group:game696048][module/compete/CompeteLogic.class.php:825]today is not the day of generate reward.
+[20170511 00:55:02 081516][NOTICE][logid:6551068000][server:127.0.0.1][group:game696048][lib/ScriptRunner.php:447]method:CompeteEndReward, err:ok, request count:1, total cost:5(ms), framework cost:0(ms), method cost:5(ms), request size:0(byte), response size:0(byte)
+[20170511 00:55:02 115908][INFO][logid:1413747200][server:127.0.0.1][group:game696040][lib/SimpleBtstore.php:232]btstore init file://COMPETE cost:0(ms)
+[20170511 00:55:02 116370][INFO][logid:1413747200][server:127.0.0.1][group:game696040][module/compete/CompeteLogic.class.php:825]today is not the day of generate reward.
+[20170511 00:55:02 117897][NOTICE][logid:1413747200][server:127.0.0.1][group:game696040][lib/ScriptRunner.php:447]method:CompeteEndReward, err:ok, request count:1, total cost:5(ms), framework cost:0(ms), method cost:5(ms), request size:0(byte), response size:0(byte)
+[20170511 00:55:02 152579][INFO][logid:5519433100][server:127.0.0.1][group:game696045][lib/SimpleBtstore.php:232]btstore init file://COMPETE cost:0(ms)
+[20170511 00:55:02 153000][INFO][logid:5519433100][server:127.0.0.1][group:game696045][module/compete/CompeteLogic.class.php:825]today is not the day of generate reward.
+[20170511 00:55:02 154502][NOTICE][logid:5519433100][server:127.0.0.1][group:game696045][lib/ScriptRunner.php:447]method:CompeteEndReward, err:ok, request count:1, total cost:5(ms), framework cost:1(ms), method cost:4(ms), request size:0(byte), response size:0(byte)
+[20170511 00:55:02 187852][INFO][logid:9242496000][server:127.0.0.1][group:game696000_31_32_33_34][lib/SimpleBtstore.php:232]btstore init file://COMPETE cost:0(ms)
+[20170511 00:55:02 188316][INFO][logid:9242496000][server:127.0.0.1][group:game696000_31_32_33_34][module/compete/CompeteLogic.class.php:825]today is not the day of generate reward.
+[20170511 00:55:02 189823][NOTICE][logid:9242496000][server:127.0.0.1][group:game696000_31_32_33_34][lib/ScriptRunner.php:447]method:CompeteEndReward, err:ok, request count:1, total cost:5(ms), framework cost:0(ms), method cost:5(ms), request size:0(byte), response size:0(byte)
+[20170511 00:55:02 224524][INFO][logid:2352836900][server:127.0.0.1][group:game696039][lib/SimpleBtstore.php:232]btstore init file://COMPETE cost:0(ms)
+[20170511 00:55:02 224946][INFO][logid:2352836900][server:127.0.0.1][group:game696039][module/compete/CompeteLogic.class.php:825]today is not the day of generate reward.
+[20170511 00:55:02 226450][NOTICE][logid:2352836900][server:127.0.0.1][group:game696039][lib/ScriptRunner.php:447]method:CompeteEndReward, err:ok, request count:1, total cost:5(ms), framework cost:1(ms), method cost:4(ms), request size:0(byte), response size:0(byte)
+[20170511 00:55:02 259828][INFO][logid:8025700300][server:127.0.0.1][group:game696044][lib/SimpleBtstore.php:232]btstore init file://COMPETE cost:0(ms)
+[20170511 00:55:02 260287][INFO][logid:8025700300][server:127.0.0.1][group:game696044][module/compete/CompeteLogic.class.php:825]today is not the day of generate reward.
+[20170511 00:55:02 261826][NOTICE][logid:8025700300][server:127.0.0.1][group:game696044][lib/ScriptRunner.php:447]method:CompeteEndReward, err:ok, request count:1, total cost:5(ms), framework cost:0(ms), method cost:5(ms), request size:0(byte), response size:0(byte)
+[20170511 00:55:02 296589][INFO][logid:1777306100][server:127.0.0.1][group:game696035][lib/SimpleBtstore.php:232]btstore init file://COMPETE cost:0(ms)
+[20170511 00:55:02 297012][INFO][logid:1777306100][server:127.0.0.1][group:game696035][module/compete/CompeteLogic.class.php:825]today is not the day of generate reward.
+[20170511 00:55:02 298521][NOTICE][logid:1777306100][server:127.0.0.1][group:game696035][lib/ScriptRunner.php:447]method:CompeteEndReward, err:ok, request count:1, total cost:5(ms), framework cost:1(ms), method cost:4(ms), request size:0(byte), response size:0(byte)
+[20170511 00:55:02 331988][INFO][logid:4514715200][server:127.0.0.1][group:game696038][lib/SimpleBtstore.php:232]btstore init file://COMPETE cost:0(ms)
+[20170511 00:55:02 332453][INFO][logid:4514715200][server:127.0.0.1][group:game696038][module/compete/CompeteLogic.class.php:825]today is not the day of generate reward.
+[20170511 00:55:02 333980][NOTICE][logid:4514715200][server:127.0.0.1][group:game696038][lib/ScriptRunner.php:447]method:CompeteEndReward, err:ok, request count:1, total cost:5(ms), framework cost:0(ms), method cost:5(ms), request size:0(byte), response size:0(byte)
+[20170511 00:55:02 369485][INFO][logid:7857152000][server:127.0.0.1][group:game696000_27_28_29_30][lib/SimpleBtstore.php:232]btstore init file://COMPETE cost:0(ms)
+[20170511 00:55:02 369910][INFO][logid:7857152000][server:127.0.0.1][group:game696000_27_28_29_30][module/compete/CompeteLogic.class.php:825]today is not the day of generate reward.
+[20170511 00:55:02 371401][NOTICE][logid:7857152000][server:127.0.0.1][group:game696000_27_28_29_30][lib/ScriptRunner.php:447]method:CompeteEndReward, err:ok, request count:1, total cost:5(ms), framework cost:1(ms), method cost:4(ms), request size:0(byte), response size:0(byte)
+[20170511 00:55:02 404837][INFO][logid:4346738800][server:127.0.0.1][group:game696043][lib/SimpleBtstore.php:232]btstore init file://COMPETE cost:0(ms)
+[20170511 00:55:02 405298][INFO][logid:4346738800][server:127.0.0.1][group:game696043][module/compete/CompeteLogic.class.php:825]today is not the day of generate reward.
+[20170511 00:55:02 406822][NOTICE][logid:4346738800][server:127.0.0.1][group:game696043][lib/ScriptRunner.php:447]method:CompeteEndReward, err:ok, request count:1, total cost:5(ms), framework cost:0(ms), method cost:5(ms), request size:0(byte), response size:0(byte)
+[20170511 00:55:02 442218][INFO][logid:1578421500][server:127.0.0.1][group:game696037][lib/SimpleBtstore.php:232]btstore init file://COMPETE cost:0(ms)
+[20170511 00:55:02 442641][INFO][logid:1578421500][server:127.0.0.1][group:game696037][module/compete/CompeteLogic.class.php:825]today is not the day of generate reward.
+[20170511 00:55:02 444148][NOTICE][logid:1578421500][server:127.0.0.1][group:game696037][lib/ScriptRunner.php:447]method:CompeteEndReward, err:ok, request count:1, total cost:5(ms), framework cost:1(ms), method cost:4(ms), request size:0(byte), response size:0(byte)
+[20170511 00:55:02 477645][INFO][logid:8257772900][server:127.0.0.1][group:game696046][lib/SimpleBtstore.php:232]btstore init file://COMPETE cost:0(ms)
+[20170511 00:55:02 478098][INFO][logid:8257772900][server:127.0.0.1][group:game696046][module/compete/CompeteLogic.class.php:825]today is not the day of generate reward.
+[20170511 00:55:02 479637][NOTICE][logid:8257772900][server:127.0.0.1][group:game696046][lib/ScriptRunner.php:447]method:CompeteEndReward, err:ok, request count:1, total cost:5(ms), framework cost:0(ms), method cost:5(ms), request size:0(byte), response size:0(byte)
+[20170511 00:55:02 515050][INFO][logid:3177286200][server:127.0.0.1][group:game696036][lib/SimpleBtstore.php:232]btstore init file://COMPETE cost:0(ms)
+[20170511 00:55:02 515480][INFO][logid:3177286200][server:127.0.0.1][group:game696036][module/compete/CompeteLogic.class.php:825]today is not the day of generate reward.
+[20170511 00:55:02 516992][NOTICE][logid:3177286200][server:127.0.0.1][group:game696036][lib/ScriptRunner.php:447]method:CompeteEndReward, err:ok, request count:1, total cost:5(ms), framework cost:1(ms), method cost:4(ms), request size:0(byte), response size:0(byte)
+[20170511 00:55:02 550391][INFO][logid:5117312000][server:127.0.0.1][group:game696041][lib/SimpleBtstore.php:232]btstore init file://COMPETE cost:0(ms)
+[20170511 00:55:02 550848][INFO][logid:5117312000][server:127.0.0.1][group:game696041][module/compete/CompeteLogic.class.php:825]today is not the day of generate reward.
+[20170511 00:55:02 552393][NOTICE][logid:5117312000][server:127.0.0.1][group:game696041][lib/ScriptRunner.php:447]method:CompeteEndReward, err:ok, request count:1, total cost:5(ms), framework cost:0(ms), method cost:5(ms), request size:0(byte), response size:0(byte)
+[20170511 00:55:02 587751][INFO][logid:7638181600][server:127.0.0.1][group:game696047][lib/SimpleBtstore.php:232]btstore init file://COMPETE cost:0(ms)
+[20170511 00:55:02 588179][INFO][logid:7638181600][server:127.0.0.1][group:game696047][module/compete/CompeteLogic.class.php:825]today is not the day of generate reward.
+[20170511 00:55:02 589680][NOTICE][logid:7638181600][server:127.0.0.1][group:game696047][lib/ScriptRunner.php:447]method:CompeteEndReward, err:ok, request count:1, total cost:5(ms), framework cost:1(ms), method cost:4(ms), request size:0(byte), response size:0(byte)
+[20170511 00:55:02 623079][INFO][logid:6186006400][server:127.0.0.1][group:game696000_23_24_25_26][lib/SimpleBtstore.php:232]btstore init file://COMPETE cost:0(ms)
+[20170511 00:55:02 623544][INFO][logid:6186006400][server:127.0.0.1][group:game696000_23_24_25_26][module/compete/CompeteLogic.class.php:825]today is not the day of generate reward.
+[20170511 00:55:02 625056][NOTICE][logid:6186006400][server:127.0.0.1][group:game696000_23_24_25_26][lib/ScriptRunner.php:447]method:CompeteEndReward, err:ok, request count:1, total cost:5(ms), framework cost:0(ms), method cost:5(ms), request size:0(byte), response size:0(byte)
+[20170511 00:55:02 660210][INFO][logid:7735150000][server:127.0.0.1][group:game696042][lib/SimpleBtstore.php:232]btstore init file://COMPETE cost:0(ms)
+[20170511 00:55:02 660639][INFO][logid:7735150000][server:127.0.0.1][group:game696042][module/compete/CompeteLogic.class.php:825]today is not the day of generate reward.
+[20170511 00:55:02 662145][NOTICE][logid:7735150000][server:127.0.0.1][group:game696042][lib/ScriptRunner.php:447]method:CompeteEndReward, err:ok, request count:1, total cost:5(ms), framework cost:1(ms), method cost:4(ms), request size:0(byte), response size:0(byte)
+[20170511 00:55:02 696405][INFO][logid:6527762600][server:127.0.0.1][group:game696049][lib/SimpleBtstore.php:232]btstore init file://COMPETE cost:0(ms)
+[20170511 00:55:02 696857][INFO][logid:6527762600][server:127.0.0.1][group:game696049][module/compete/CompeteLogic.class.php:825]today is not the day of generate reward.
+[20170511 00:55:02 698398][NOTICE][logid:6527762600][server:127.0.0.1][group:game696049][lib/ScriptRunner.php:447]method:CompeteEndReward, err:ok, request count:1, total cost:5(ms), framework cost:0(ms), method cost:5(ms), request size:0(byte), response size:0(byte)
+[20170511 00:55:02 760856][NOTICE][logid:3852313600][server:127.0.0.1][lib/ScriptRunner.php:447]method:CrontabExecutor, err:ok, request count:1, total cost:804(ms), framework cost:2(ms), method cost:802(ms), request size:0(byte), response size:0(byte)

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--架设 QQ508708408 --表配置 -->
+<table>
+
+<!--架设 QQ508708408 --表名 -->
+<name>t_hero_formation</name>
+
+<!--架设 QQ508708408 --主键 -->
+<primary_keys>
+<!--架设 QQ508708408 --主键id -->
+<key>uid</key>
+</primary_keys>
+
+</table>

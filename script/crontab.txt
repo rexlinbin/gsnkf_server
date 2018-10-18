@@ -1,0 +1,43 @@
+MAILTO=rd@bj.babeltime.com,yw@bj.babeltime.com
+
+ROOT=/home/pirate/rpcfw
+SCRIPT_ROOT=/home/pirate/rpcfw/script
+BTSCRIPT=/home/pirate/bin/php /home/pirate/rpcfw/lib/ScriptRunner.php -f /home/pirate/rpcfw/script/CrontabExecutor.php normal async
+SYNCBTSCRIPT=/home/pirate/bin/php /home/pirate/rpcfw/lib/ScriptRunner.php -f /home/pirate/rpcfw/script/CrontabExecutor.php normal sync
+OFFSEBTSCRIPT=/home/pirate/bin/php /home/pirate/rpcfw/lib/ScriptRunner.php -f /home/pirate/rpcfw/script/CrontabExecutor.php offset async
+
+#arena
+00 22 * * * $SYNCBTSCRIPT $SCRIPT_ROOT/ArenaGenerateSnap.php
+10 22 * * * $SYNCBTSCRIPT $SCRIPT_ROOT/ArenaRewardLuckyPosition.php
+29 22 * * * $SYNCBTSCRIPT $SCRIPT_ROOT/ArenaGenerateLuckyPosition.php
+
+#compete
+00 23 * * * $SYNCBTSCRIPT $SCRIPT_ROOT/CompeteStartReward.php
+02 23 * * * $SYNCBTSCRIPT $SCRIPT_ROOT/CompeteGenerateReward.php
+55 00 * * * $SYNCBTSCRIPT $SCRIPT_ROOT/CompeteEndReward.php
+
+
+#olympic
+00 11 * * *  $OFFSEBTSCRIPT $SCRIPT_ROOT/OlympicScript.php 0
+00 12 * * *  $OFFSEBTSCRIPT $SCRIPT_ROOT/OlympicScript.php 1
+05 12 * * *  $OFFSEBTSCRIPT $SCRIPT_ROOT/OlympicScript.php 2
+06 12 * * *  $OFFSEBTSCRIPT $SCRIPT_ROOT/OlympicScript.php 3
+07 12 * * *  $OFFSEBTSCRIPT $SCRIPT_ROOT/OlympicScript.php 4
+08 12 * * *  $OFFSEBTSCRIPT $SCRIPT_ROOT/OlympicScript.php 5
+10 12 * * *  $OFFSEBTSCRIPT $SCRIPT_ROOT/OlympicScript.php 6
+12 12 * * *  $OFFSEBTSCRIPT $SCRIPT_ROOT/OlympicScript.php 7
+14 12 * * *  $OFFSEBTSCRIPT $SCRIPT_ROOT/OlympicScript.php 8
+
+#pass
+03 04 * * * $SYNCBTSCRIPT $SCRIPT_ROOT/PassScript.php
+
+#lordwar inner
+00 19 * * * $BTSCRIPT $SCRIPT_ROOT/LordwarScript.php inner runRound
+30 19 * * * $BTSCRIPT $SCRIPT_ROOT/LordwarScript.php inner runRound
+30 21 * * * $BTSCRIPT $SCRIPT_ROOT/LordwarScript.php inner rewardPromotion
+20 21 * * * $BTSCRIPT $SCRIPT_ROOT/LordwarScript.php inner rewardSupport
+
+
+
+
+

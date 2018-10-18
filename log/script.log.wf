@@ -1,0 +1,4 @@
+[20170511 00:55:02 072753][FATAL][logid:3852313600][server:127.0.0.1][script/CrontabExecutor.php:186]file:/home/pirate/lcserver/conf/game696301.args not found
+[20170511 00:55:02 072812][FATAL][logid:3852313600][server:127.0.0.1][script/CrontabExecutor.php:244]game:game696301 has no db found
+[20170511 00:55:02 073036][FATAL][logid:3852313600][server:127.0.0.1][script/CrontabExecutor.php:186]file:/home/pirate/lcserver/conf/game.args not found
+[20170511 00:55:02 073083][FATAL][logid:3852313600][server:127.0.0.1][script/CrontabExecutor.php:244]game:game has no db found

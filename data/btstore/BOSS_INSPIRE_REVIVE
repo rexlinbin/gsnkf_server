@@ -1,0 +1,1 @@
+a:1:{i:1;a:11:{s:17:"inspire_revive_id";i:1;s:12:"addition_arr";a:1:{i:0;a:2:{i:0;i:78;i:1;i:500;}}s:13:"inspire_limit";i:20;s:18:"inspire_base_ratio";i:10000;s:21:"inspire_success_ratio";i:500;s:17:"inspire_silver_cd";i:30;s:19:"inspire_need_silver";i:1000;s:17:"inspire_need_gold";i:10;s:17:"rebirth_gold_base";i:10;s:16:"rebirth_gold_inc";i:10;s:6:"atk_cd";i:45;}}

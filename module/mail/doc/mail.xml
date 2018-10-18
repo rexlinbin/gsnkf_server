@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--架设 QQ508708408 --表配置 -->
+<table>
+
+<!--架设 QQ508708408 --表名 -->
+<name>t_mail</name>
+
+<!--架设 QQ508708408 --分表信息 -->
+<partition>
+
+<!--架设 QQ508708408 --分表键值 -->
+<key>reciever_uid</key>
+
+<!--架设 QQ508708408 --分表方法 mod, div, month, week, year, day -->
+<method>mod</method>
+
+<!--架设 QQ508708408 --分表值 -->
+<value>10</value>
+</partition>
+</table>

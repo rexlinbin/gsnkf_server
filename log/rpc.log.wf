@@ -1,0 +1,11 @@
+[20170311 13:11:31 045591][WARNING][logid:2537348400][client:36.45.171.174][server:127.0.0.1][group:game696035][pid:2721650][module/activity/conf/ActivityConfLogic.class.php:510]no conf data in db
+[20170311 13:13:22 975892][WARNING][logid:7668567520][client:36.45.171.174][server:127.0.0.1][group:game696035][pid:2721650][uid:22500][module/ncopy/CopyUtil.class.php:589]this army is 490018.the pre army is 490017 is not defeated.
+[20170311 13:13:22 983061][WARNING][logid:7668567520][client:36.45.171.174][server:127.0.0.1][group:game696035][pid:2721650][uid:22500][module/ncopy/NCopyLogic.class.php:418]can not atk army 490018 in baseid 1001 baselevel 0
+[20170311 13:33:09 216840][WARNING][logid:1036192200][client:36.45.171.174][server:127.0.0.1][group:game696035][pid:2721650][module/activity/conf/ActivityConfLogic.class.php:510]no conf data in db
+[20170311 15:15:48 188340][WARNING][logid:5807518400][client:121.227.195.27][server:127.0.0.1][group:game696035][pid:2723653][module/activity/conf/ActivityConfLogic.class.php:510]no conf data in db
+[20170311 15:24:21 443513][FATAL][logid:12344][client:127.0.0.1][server:127.0.0.1][group:game696035][module/user/OtherUserObj.class.php:108]fail to get user by uid 1000
+[20170311 15:24:21 450031][FATAL][logid:12344][client:127.0.0.1][server:127.0.0.1][group:game696035][lib/RPCFramework.class.php:642]uncaught exception:sys for method:user.addGold4BBpay
+[20170311 15:26:59 572940][WARNING][logid:4698327700][client:36.45.175.195][server:127.0.0.1][group:game696035][pid:2721650][module/activity/conf/ActivityConfLogic.class.php:510]no conf data in db
+[20170511 01:33:16 357107][WARNING][logid:9065851600][client:171.43.142.73][server:127.0.0.1][group:game696035][pid:10002][module/activity/conf/ActivityConfLogic.class.php:526]no conf data in db
+[20170511 01:36:02 758991][WARNING][logid:9210459000][client:171.43.142.73][server:127.0.0.1][group:game696035][pid:10002][uid:22700][module/reward/vipbonus/VipBonus.class.php:47]error param:[1]
+[20170511 01:36:05 307940][WARNING][logid:6836576300][client:171.43.142.73][server:127.0.0.1][group:game696035][pid:10002][uid:22700][module/reward/vipbonus/VipBonus.class.php:47]error param:[1]
